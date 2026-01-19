@@ -1,0 +1,19 @@
+﻿{
+  "branding": {
+    "logo": "branding/logo/mazaa-eatery-logo.png",
+    "badgeLowCarbHighProtein": "branding/badges/low-carb-high-protein.png"
+  },
+  "home": {
+    "heroSlides": [
+      "home/hero/slide-01-hero-banner.png"
+    ]
+  },
+  "menu": {
+    "breakfast": {
+      "idli": "menu/breakfast/idli.png",
+      "dosa": "menu/breakfast/dosa.png",
+      "uttapam": "menu/breakfast/uttapam.png",
+      "poori": "menu/breakfast/poori.png"
+    }
+  }
+}

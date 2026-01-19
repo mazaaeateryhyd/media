@@ -1,0 +1,6 @@
+﻿*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.svg text
+*.pdf binary
